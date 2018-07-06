@@ -85,6 +85,7 @@
     "type": "shell",
     "scripts": [
       "scripts/fedora/virtualbox.sh",
+      "scripts/fedora/qemu.sh",
       "scripts/fedora/vmware.sh",
       "scripts/common/vagrant.sh",
       "scripts/common/sshd.sh",
